@@ -10,10 +10,11 @@
 - Designing and building products is love
 - More about me: I love to draw, play keyboards... I read as well.
 
+### Contact
+
+Email: papebarka@papebarka.me
 
 ### Connect with me:
-
-[Email]: [email]
 
 [<img align="left" alt="papebarka.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="papebarka.me | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -29,6 +30,8 @@
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
+<br />
+
 ### Front-End Technologies:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,6 +43,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 
+<br />
 
 ### Back-End Technologies
 
@@ -50,12 +54,15 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 
+<br />
+
 ### SSG & CMS:
 
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />
 <img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jekyll/jekyll.png" />
 
+<br />
 
 ### Databases
 
@@ -64,6 +71,7 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<br />
 
 ### Tools:
 
