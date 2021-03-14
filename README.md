@@ -1,9 +1,9 @@
 ### Hello world, I'm Pape Barka
 
-[![Website](https://img.shields.io/website?label=papebarka.me&style=for-the-badge&url=https%3A%2F%2Fpapebarka.me)](https://papebarka.me)
+<!--[![Website](https://img.shields.io/website?label=papebarka.me&style=for-the-badge&url=https%3A%2F%2Fpapebarka.me)](https://papebarka.me)-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/papebarka_me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpapebarka_me&screen_name=papebarka_me)
 
-## I'm a passionate Developer in love with UI/UX & Graphic Design.
+## I'm a passionate Software Developer who also happen to design UI/UX and brand identity.
 #### Learning never stops
 
 - I am currently freelancing and open to new jobs
@@ -12,26 +12,28 @@
 
 ### Contact
 
-Email: papebarka@papebarka.me
+Email: papebarka@gmail.com
 
 ### Connect with me:
 
-[<img align="left" alt="papebarka.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="papebarka.me | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="papebarka.me | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="papebarka.me | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--[<img align="left" alt="papebarka.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="@papebarka_me | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@papebarka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="@papebarka.me | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Programming Languages:
+<!---### Programming Languages:-->
 
-
+<!--
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 <br />
+-->
 
+<!--
 ### Front-End Technologies:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -44,7 +46,9 @@ Email: papebarka@papebarka.me
 <img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 
 <br />
+-->
 
+<!--
 ### Back-End Technologies
 
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
@@ -55,7 +59,9 @@ Email: papebarka@papebarka.me
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 
 <br />
+-->
 
+<!--
 ### SSG & CMS:
 
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
@@ -63,7 +69,9 @@ Email: papebarka@papebarka.me
 <img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jekyll/jekyll.png" />
 
 <br />
+-->
 
+<!--
 ### Databases
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -72,7 +80,9 @@ Email: papebarka@papebarka.me
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+-->
 
+<!--
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -82,6 +92,7 @@ Email: papebarka@papebarka.me
 
 <br />
 <br />
+-->
 
 ---
 
