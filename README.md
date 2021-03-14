@@ -8,7 +8,7 @@
 
 - I am currently freelancing and open to new jobs
 - Designing and building products is love
-- More about me: I love to draw, play keyboards... I read as well.
+- More about me: I love to draw, play keyboards... An avid reader as well.
 
 ### Contact
 
