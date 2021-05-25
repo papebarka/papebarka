@@ -6,13 +6,12 @@
 ## I'm a passionate Software Developer who also happen to design UI/UX and brand identity.
 #### Learning never stops
 
-- I am currently freelancing and open to new jobs
 - Designing and building products is love
 - More about me: I love to draw, play keyboards... An avid reader as well.
 
 ### Contact
 
-Email: papebarka@gmail.com
+Email: barkacoul@gmail.com
 
 ### Connect with me:
 
